@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index version="1" name="Velocitone-ReaScripts" commit="257bf7d4d59231e7e6e4377fe5b4797fdff70754">
+  <category name="Hardware Control/MidiFighter/Twister">
+    <reapack name="Velocitone - MIDIFighter Twister Select Bank 1.lua" type="script" desc="Velocitone: Hardware: MIDIFighter Twister: (Select Bank 1)">
+      <metadata>
+        <link rel="website">https://github.com/chrislundeen/</link>
+      </metadata>
+      <version name="1.0.0" author="chrislundeen" time="2026-03-19T17:19:37Z">
+        <changelog><![CDATA[Initial Velocitone release. Switches MIDIFighter Twister to bank 1.]]></changelog>
+        <source main="main">https://github.com/chrislundeen/Velocitone-ReaScripts/raw/257bf7d4d59231e7e6e4377fe5b4797fdff70754/Hardware%20Control/MidiFighter/Twister/Velocitone%20-%20MIDIFighter%20Twister%20Select%20Bank%201.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Velocitone - MIDIFighter Twister Select Bank 2.lua" type="script" desc="Velocitone: Hardware: MIDIFighter Twister: (Select Bank 2)">
+      <metadata>
+        <link rel="website">https://github.com/chrislundeen/</link>
+      </metadata>
+      <version name="1.0.0" author="chrislundeen" time="2026-03-19T17:19:37Z">
+        <changelog><![CDATA[Initial Velocitone release. Switches MIDIFighter Twister to bank 2.]]></changelog>
+        <source main="main">https://github.com/chrislundeen/Velocitone-ReaScripts/raw/257bf7d4d59231e7e6e4377fe5b4797fdff70754/Hardware%20Control/MidiFighter/Twister/Velocitone%20-%20MIDIFighter%20Twister%20Select%20Bank%202.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Velocitone - MIDIFighter Twister Select Bank 3.lua" type="script" desc="Velocitone: Hardware: MIDIFighter Twister: (Select Bank 3)">
+      <metadata>
+        <link rel="website">https://github.com/chrislundeen/</link>
+      </metadata>
+      <version name="1.0.0" author="chrislundeen" time="2026-03-19T17:19:37Z">
+        <changelog><![CDATA[Initial Velocitone release. Switches MIDIFighter Twister to bank 3.]]></changelog>
+        <source main="main">https://github.com/chrislundeen/Velocitone-ReaScripts/raw/257bf7d4d59231e7e6e4377fe5b4797fdff70754/Hardware%20Control/MidiFighter/Twister/Velocitone%20-%20MIDIFighter%20Twister%20Select%20Bank%203.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Velocitone - MIDIFighter Twister Select Bank 4.lua" type="script" desc="Velocitone: Hardware: MIDIFighter Twister: (Select Bank 4)">
+      <metadata>
+        <link rel="website">https://github.com/chrislundeen/</link>
+      </metadata>
+      <version name="1.0.0" author="chrislundeen" time="2026-03-19T17:19:37Z">
+        <changelog><![CDATA[Initial Velocitone release. Switches MIDIFighter Twister to bank 4.]]></changelog>
+        <source main="main">https://github.com/chrislundeen/Velocitone-ReaScripts/raw/257bf7d4d59231e7e6e4377fe5b4797fdff70754/Hardware%20Control/MidiFighter/Twister/Velocitone%20-%20MIDIFighter%20Twister%20Select%20Bank%204.lua</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="init">
+    <reapack name="Velocitone - startup.lua" type="script" desc="Velocitone: Startup ReaScript">
+      <metadata>
+        <link rel="website">https://github.com/chrislundeen/</link>
+      </metadata>
+      <version name="1.0.0" author="chrislundeen" time="2026-03-19T17:19:37Z">
+        <changelog><![CDATA[Initial Velocitone release. Startup script that loads libraries and runs toolbar sync loop.]]></changelog>
+        <source main="main">https://github.com/chrislundeen/Velocitone-ReaScripts/raw/257bf7d4d59231e7e6e4377fe5b4797fdff70754/init/Velocitone%20-%20startup.lua</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="Toolbars">
+    <reapack name="Velocitone - Toolbars.lua" type="script" desc="Velocitone: Toolbars">
+      <metadata>
+        <link rel="website">https://github.com/chrislundeen/</link>
+      </metadata>
+      <version name="1.0.0" author="chrislundeen" time="2026-03-19T17:19:37Z">
+        <changelog><![CDATA[Initial Velocitone release. Toolbar entry point script.]]></changelog>
+        <source main="main">https://github.com/chrislundeen/Velocitone-ReaScripts/raw/257bf7d4d59231e7e6e4377fe5b4797fdff70754/Toolbars/Velocitone%20-%20Toolbars.lua</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="Tracks">
+    <reapack name="Velocitone - Color Gradient for Child Tracks.lua" type="script" desc="Velocitone: Color Gradient for Child Tracks">
+      <metadata>
+        <link rel="website">https://github.com/chrislundeen/</link>
+      </metadata>
+      <version name="1.0.0" author="chrislundeen" time="2026-03-19T17:19:37Z">
+        <changelog><![CDATA[Initial Velocitone release. Applies color gradient across child tracks based on parent track color.]]></changelog>
+        <source main="main">https://github.com/chrislundeen/Velocitone-ReaScripts/raw/257bf7d4d59231e7e6e4377fe5b4797fdff70754/Tracks/Velocitone%20-%20Color%20Gradient%20for%20Child%20Tracks.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Velocitone - Color Media Items Variation Of Parent Track Color.lua" type="script" desc="Velocitone: Color Selected Media Items Variation Of Parent Track Color">
+      <metadata>
+        <link rel="website">https://github.com/chrislundeen/</link>
+      </metadata>
+      <version name="1.0.0" author="chrislundeen" time="2026-03-19T17:19:37Z">
+        <changelog><![CDATA[Initial Velocitone release. Colors media items with randomized variations of parent track color.]]></changelog>
+        <source main="main">https://github.com/chrislundeen/Velocitone-ReaScripts/raw/257bf7d4d59231e7e6e4377fe5b4797fdff70754/Tracks/Velocitone%20-%20Color%20Media%20Items%20Variation%20Of%20Parent%20Track%20Color.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Velocitone - Track FX In Same Docker Window.lua" type="script" desc="Velocitone: Track FX In Same Docker Window">
+      <metadata>
+        <link rel="website">https://github.com/chrislundeen/</link>
+      </metadata>
+      <version name="1.0.0" author="chrislundeen" time="2026-03-19T17:19:37Z">
+        <changelog><![CDATA[Initial Velocitone release. Opens track FX in the same docker window (experimental).]]></changelog>
+        <source main="main">https://github.com/chrislundeen/Velocitone-ReaScripts/raw/257bf7d4d59231e7e6e4377fe5b4797fdff70754/Tracks/Velocitone%20-%20Track%20FX%20In%20Same%20Docker%20Window.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Velocitone - Track Name Character Replacement.lua" type="script" desc="Velocitone: Track Name Character Replacement">
+      <metadata>
+        <link rel="website">https://github.com/chrislundeen/</link>
+      </metadata>
+      <version name="1.0.0" author="chrislundeen" time="2026-03-19T17:19:37Z">
+        <changelog><![CDATA[Initial Velocitone release. Find-and-replace characters in selected track names.]]></changelog>
+        <source main="main">https://github.com/chrislundeen/Velocitone-ReaScripts/raw/257bf7d4d59231e7e6e4377fe5b4797fdff70754/Tracks/Velocitone%20-%20Track%20Name%20Character%20Replacement.lua</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="Tracks/Selection">
+    <reapack name="Velocitone - Select Visible MCP Track - Controller.lua" type="script" desc="Velocitone: Select Visible MCP Track - Controller">
+      <metadata>
+        <link rel="website">https://github.com/chrislundeen/</link>
+      </metadata>
+      <version name="1.0.0" author="chrislundeen" time="2026-03-19T17:19:37Z">
+        <changelog><![CDATA[Initial Velocitone release. Hardware encoder input to select next/previous visible MCP track.]]></changelog>
+        <source main="main">https://github.com/chrislundeen/Velocitone-ReaScripts/raw/257bf7d4d59231e7e6e4377fe5b4797fdff70754/Tracks/Selection/Velocitone%20-%20Select%20Visible%20MCP%20Track%20-%20Controller.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Velocitone - Select Visible MCP Track - Next.lua" type="script" desc="Velocitone: Select Visible MCP Track - Next">
+      <metadata>
+        <link rel="website">https://github.com/chrislundeen/</link>
+      </metadata>
+      <version name="1.0.0" author="chrislundeen" time="2026-03-19T17:19:37Z">
+        <changelog><![CDATA[Initial Velocitone release. Selects the next visible track in the Mixer Control Panel.]]></changelog>
+        <source main="main">https://github.com/chrislundeen/Velocitone-ReaScripts/raw/257bf7d4d59231e7e6e4377fe5b4797fdff70754/Tracks/Selection/Velocitone%20-%20Select%20Visible%20MCP%20Track%20-%20Next.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Velocitone - Select Visible MCP Track - Previous.lua" type="script" desc="Velocitone: Select Visible MCP Track - Previous">
+      <metadata>
+        <link rel="website">https://github.com/chrislundeen/</link>
+      </metadata>
+      <version name="1.0.0" author="chrislundeen" time="2026-03-19T17:19:37Z">
+        <changelog><![CDATA[Initial Velocitone release. Selects the previous visible track in the Mixer Control Panel.]]></changelog>
+        <source main="main">https://github.com/chrislundeen/Velocitone-ReaScripts/raw/257bf7d4d59231e7e6e4377fe5b4797fdff70754/Tracks/Selection/Velocitone%20-%20Select%20Visible%20MCP%20Track%20-%20Previous.lua</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="Tracks/Tag Manager/Tag Track Name">
+    <reapack name="Velocitone - Tag Track Name (Audio).lua" type="script" desc="Velocitone: Tag Track Name: [audio]">
+      <metadata>
+        <link rel="website">https://github.com/chrislundeen/</link>
+      </metadata>
+      <version name="1.0.0" author="chrislundeen" time="2026-03-19T17:19:37Z">
+        <changelog><![CDATA[Initial Velocitone release. Toggles [audio] tag on selected track name.]]></changelog>
+        <source main="main">https://github.com/chrislundeen/Velocitone-ReaScripts/raw/257bf7d4d59231e7e6e4377fe5b4797fdff70754/Tracks/Tag%20Manager/Tag%20Track%20Name/Velocitone%20-%20Tag%20Track%20Name%20(Audio).lua</source>
+      </version>
+    </reapack>
+    <reapack name="Velocitone - Tag Track Name (Buss).lua" type="script" desc="Velocitone: Tag Track Name: [buss]">
+      <metadata>
+        <link rel="website">https://github.com/chrislundeen/</link>
+      </metadata>
+      <version name="1.0.0" author="chrislundeen" time="2026-03-19T17:19:37Z">
+        <changelog><![CDATA[Initial Velocitone release. Toggles [buss] tag on selected track name.]]></changelog>
+        <source main="main">https://github.com/chrislundeen/Velocitone-ReaScripts/raw/257bf7d4d59231e7e6e4377fe5b4797fdff70754/Tracks/Tag%20Manager/Tag%20Track%20Name/Velocitone%20-%20Tag%20Track%20Name%20(Buss).lua</source>
+      </version>
+    </reapack>
+    <reapack name="Velocitone - Tag Track Name (Channel Strip).lua" type="script" desc="Velocitone: Tag Track Name: [channelstrip]">
+      <metadata>
+        <link rel="website">https://github.com/chrislundeen/</link>
+      </metadata>
+      <version name="1.0.0" author="chrislundeen" time="2026-03-19T17:19:37Z">
+        <changelog><![CDATA[Initial Velocitone release. Toggles [channelstrip] tag on selected track name.]]></changelog>
+        <source main="main">https://github.com/chrislundeen/Velocitone-ReaScripts/raw/257bf7d4d59231e7e6e4377fe5b4797fdff70754/Tracks/Tag%20Manager/Tag%20Track%20Name/Velocitone%20-%20Tag%20Track%20Name%20(Channel%20Strip).lua</source>
+      </version>
+    </reapack>
+    <reapack name="Velocitone - Tag Track Name (Custom).lua" type="script" desc="Velocitone: Tag Track Name: {user_defined_custom_tag}">
+      <metadata>
+        <link rel="website">https://github.com/chrislundeen/</link>
+      </metadata>
+      <version name="1.0.0" author="chrislundeen" time="2026-03-19T17:19:37Z">
+        <changelog><![CDATA[Initial Velocitone release. Toggles custom tag on selected track name.]]></changelog>
+        <source main="main">https://github.com/chrislundeen/Velocitone-ReaScripts/raw/257bf7d4d59231e7e6e4377fe5b4797fdff70754/Tracks/Tag%20Manager/Tag%20Track%20Name/Velocitone%20-%20Tag%20Track%20Name%20(Custom).lua</source>
+      </version>
+    </reapack>
+    <reapack name="Velocitone - Tag Track Name (Folder).lua" type="script" desc="Velocitone: Tag Track Name: [folder]">
+      <metadata>
+        <link rel="website">https://github.com/chrislundeen/</link>
+      </metadata>
+      <version name="1.0.0" author="chrislundeen" time="2026-03-19T17:19:37Z">
+        <changelog><![CDATA[Initial Velocitone release. Toggles [folder] tag on selected track name.]]></changelog>
+        <source main="main">https://github.com/chrislundeen/Velocitone-ReaScripts/raw/257bf7d4d59231e7e6e4377fe5b4797fdff70754/Tracks/Tag%20Manager/Tag%20Track%20Name/Velocitone%20-%20Tag%20Track%20Name%20(Folder).lua</source>
+      </version>
+    </reapack>
+    <reapack name="Velocitone - Tag Track Name (FX).lua" type="script" desc="Velocitone: Tag Track Name: [fx]">
+      <metadata>
+        <link rel="website">https://github.com/chrislundeen/</link>
+      </metadata>
+      <version name="1.0.0" author="chrislundeen" time="2026-03-19T17:19:37Z">
+        <changelog><![CDATA[Initial Velocitone release. Toggles [fx] tag on selected track name.]]></changelog>
+        <source main="main">https://github.com/chrislundeen/Velocitone-ReaScripts/raw/257bf7d4d59231e7e6e4377fe5b4797fdff70754/Tracks/Tag%20Manager/Tag%20Track%20Name/Velocitone%20-%20Tag%20Track%20Name%20(FX).lua</source>
+      </version>
+    </reapack>
+    <reapack name="Velocitone - Tag Track Name (Guitar FX).lua" type="script" desc="Velocitone: Tag Track Name: [gfx]">
+      <metadata>
+        <link rel="website">https://github.com/chrislundeen/</link>
+      </metadata>
+      <version name="1.0.0" author="chrislundeen" time="2026-03-19T17:19:37Z">
+        <changelog><![CDATA[Initial Velocitone release. Toggles [gfx] tag on selected track name.]]></changelog>
+        <source main="main">https://github.com/chrislundeen/Velocitone-ReaScripts/raw/257bf7d4d59231e7e6e4377fe5b4797fdff70754/Tracks/Tag%20Manager/Tag%20Track%20Name/Velocitone%20-%20Tag%20Track%20Name%20(Guitar%20FX).lua</source>
+      </version>
+    </reapack>
+    <reapack name="Velocitone - Tag Track Name (MIDI).lua" type="script" desc="Velocitone: Tag Track Name: [midi]">
+      <metadata>
+        <link rel="website">https://github.com/chrislundeen/</link>
+      </metadata>
+      <version name="1.0.0" author="chrislundeen" time="2026-03-19T17:19:37Z">
+        <changelog><![CDATA[Initial Velocitone release. Toggles [midi] tag on selected track name.]]></changelog>
+        <source main="main">https://github.com/chrislundeen/Velocitone-ReaScripts/raw/257bf7d4d59231e7e6e4377fe5b4797fdff70754/Tracks/Tag%20Manager/Tag%20Track%20Name/Velocitone%20-%20Tag%20Track%20Name%20(MIDI).lua</source>
+      </version>
+    </reapack>
+    <reapack name="Velocitone - Tag Track Name (Output).lua" type="script" desc="Velocitone: Tag Track Name: [output]">
+      <metadata>
+        <link rel="website">https://github.com/chrislundeen/</link>
+      </metadata>
+      <version name="1.0.0" author="chrislundeen" time="2026-03-19T17:19:37Z">
+        <changelog><![CDATA[Initial Velocitone release. Toggles [output] tag on selected track name.]]></changelog>
+        <source main="main">https://github.com/chrislundeen/Velocitone-ReaScripts/raw/257bf7d4d59231e7e6e4377fe5b4797fdff70754/Tracks/Tag%20Manager/Tag%20Track%20Name/Velocitone%20-%20Tag%20Track%20Name%20(Output).lua</source>
+      </version>
+    </reapack>
+    <reapack name="Velocitone - Tag Track Name (Rendered Stem).lua" type="script" desc="Velocitone: Tag Track Name: [stem]">
+      <metadata>
+        <link rel="website">https://github.com/chrislundeen/</link>
+      </metadata>
+      <version name="1.0.0" author="chrislundeen" time="2026-03-19T17:19:37Z">
+        <changelog><![CDATA[Initial Velocitone release. Toggles [stem] tag on selected track name.]]></changelog>
+        <source main="main">https://github.com/chrislundeen/Velocitone-ReaScripts/raw/257bf7d4d59231e7e6e4377fe5b4797fdff70754/Tracks/Tag%20Manager/Tag%20Track%20Name/Velocitone%20-%20Tag%20Track%20Name%20(Rendered%20Stem).lua</source>
+      </version>
+    </reapack>
+    <reapack name="Velocitone - Tag Track Name (Section).lua" type="script" desc="Velocitone: Tag Track Name: [section]">
+      <metadata>
+        <link rel="website">https://github.com/chrislundeen/</link>
+      </metadata>
+      <version name="1.0.0" author="chrislundeen" time="2026-03-19T17:19:37Z">
+        <changelog><![CDATA[Initial Velocitone release. Toggles [section] tag on selected track name.]]></changelog>
+        <source main="main">https://github.com/chrislundeen/Velocitone-ReaScripts/raw/257bf7d4d59231e7e6e4377fe5b4797fdff70754/Tracks/Tag%20Manager/Tag%20Track%20Name/Velocitone%20-%20Tag%20Track%20Name%20(Section).lua</source>
+      </version>
+    </reapack>
+    <reapack name="Velocitone - Tag Track Name (Tape).lua" type="script" desc="Velocitone: Tag Track Name: [tape]">
+      <metadata>
+        <link rel="website">https://github.com/chrislundeen/</link>
+      </metadata>
+      <version name="1.0.0" author="chrislundeen" time="2026-03-19T17:19:37Z">
+        <changelog><![CDATA[Initial Velocitone release. Toggles [tape] tag on selected track name.]]></changelog>
+        <source main="main">https://github.com/chrislundeen/Velocitone-ReaScripts/raw/257bf7d4d59231e7e6e4377fe5b4797fdff70754/Tracks/Tag%20Manager/Tag%20Track%20Name/Velocitone%20-%20Tag%20Track%20Name%20(Tape).lua</source>
+      </version>
+    </reapack>
+    <reapack name="Velocitone - Tag Track Name (VSTi).lua" type="script" desc="Velocitone: Tag Track Name: [vsti]">
+      <metadata>
+        <link rel="website">https://github.com/chrislundeen/</link>
+      </metadata>
+      <version name="1.0.0" author="chrislundeen" time="2026-03-19T17:19:37Z">
+        <changelog><![CDATA[Initial Velocitone release. Toggles [vsti] tag on selected track name.]]></changelog>
+        <source main="main">https://github.com/chrislundeen/Velocitone-ReaScripts/raw/257bf7d4d59231e7e6e4377fe5b4797fdff70754/Tracks/Tag%20Manager/Tag%20Track%20Name/Velocitone%20-%20Tag%20Track%20Name%20(VSTi).lua</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="Tracks/Tag Manager/Track Manager Filter">
+    <reapack name="Velocitone - Reset Tag Filter.lua" type="script" desc="Velocitone: Reset Tag Filter">
+      <metadata>
+        <link rel="website">https://github.com/chrislundeen/</link>
+      </metadata>
+      <version name="1.0.0" author="chrislundeen" time="2026-03-19T17:19:37Z">
+        <changelog><![CDATA[Initial Velocitone release. Clears all tag filters and restores full track visibility.]]></changelog>
+        <source main="main">https://github.com/chrislundeen/Velocitone-ReaScripts/raw/257bf7d4d59231e7e6e4377fe5b4797fdff70754/Tracks/Tag%20Manager/Track%20Manager%20Filter/Velocitone%20-%20Reset%20Tag%20Filter.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Velocitone - Tag Filter (Audio).lua" type="script" desc="Velocitone: Tag Filter: [audio]">
+      <metadata>
+        <link rel="website">https://github.com/chrislundeen/</link>
+      </metadata>
+      <version name="1.0.0" author="chrislundeen" time="2026-03-19T17:19:37Z">
+        <changelog><![CDATA[Initial Velocitone release. Toggles track visibility filter for [audio] tagged tracks.]]></changelog>
+        <source main="main">https://github.com/chrislundeen/Velocitone-ReaScripts/raw/257bf7d4d59231e7e6e4377fe5b4797fdff70754/Tracks/Tag%20Manager/Track%20Manager%20Filter/Velocitone%20-%20Tag%20Filter%20(Audio).lua</source>
+      </version>
+    </reapack>
+    <reapack name="Velocitone - Tag Filter (Buss).lua" type="script" desc="Velocitone: Tag Filter: [buss]">
+      <metadata>
+        <link rel="website">https://github.com/chrislundeen/</link>
+      </metadata>
+      <version name="1.0.0" author="chrislundeen" time="2026-03-19T17:19:37Z">
+        <changelog><![CDATA[Initial Velocitone release. Toggles track visibility filter for [buss] tagged tracks.]]></changelog>
+        <source main="main">https://github.com/chrislundeen/Velocitone-ReaScripts/raw/257bf7d4d59231e7e6e4377fe5b4797fdff70754/Tracks/Tag%20Manager/Track%20Manager%20Filter/Velocitone%20-%20Tag%20Filter%20(Buss).lua</source>
+      </version>
+    </reapack>
+    <reapack name="Velocitone - Tag Filter (Channel Strip).lua" type="script" desc="Velocitone: Tag Filter: [channelstrip]">
+      <metadata>
+        <link rel="website">https://github.com/chrislundeen/</link>
+      </metadata>
+      <version name="1.0.0" author="chrislundeen" time="2026-03-19T17:19:37Z">
+        <changelog><![CDATA[Initial Velocitone release. Toggles track visibility filter for [channelstrip] tagged tracks.]]></changelog>
+        <source main="main">https://github.com/chrislundeen/Velocitone-ReaScripts/raw/257bf7d4d59231e7e6e4377fe5b4797fdff70754/Tracks/Tag%20Manager/Track%20Manager%20Filter/Velocitone%20-%20Tag%20Filter%20(Channel%20Strip).lua</source>
+      </version>
+    </reapack>
+    <reapack name="Velocitone - Tag Filter (Custom).lua" type="script" desc="Velocitone: Tag Filter: {user_defined_custom_tag}">
+      <metadata>
+        <link rel="website">https://github.com/chrislundeen/</link>
+      </metadata>
+      <version name="1.0.0" author="chrislundeen" time="2026-03-19T17:19:37Z">
+        <changelog><![CDATA[Initial Velocitone release. Toggles track visibility filter for custom tagged tracks.]]></changelog>
+        <source main="main">https://github.com/chrislundeen/Velocitone-ReaScripts/raw/257bf7d4d59231e7e6e4377fe5b4797fdff70754/Tracks/Tag%20Manager/Track%20Manager%20Filter/Velocitone%20-%20Tag%20Filter%20(Custom).lua</source>
+      </version>
+    </reapack>
+    <reapack name="Velocitone - Tag Filter (Folder).lua" type="script" desc="Velocitone: Tag Filter: [folder]">
+      <metadata>
+        <link rel="website">https://github.com/chrislundeen/</link>
+      </metadata>
+      <version name="1.0.0" author="chrislundeen" time="2026-03-19T17:19:37Z">
+        <changelog><![CDATA[Initial Velocitone release. Toggles track visibility filter for [folder] tagged tracks.]]></changelog>
+        <source main="main">https://github.com/chrislundeen/Velocitone-ReaScripts/raw/257bf7d4d59231e7e6e4377fe5b4797fdff70754/Tracks/Tag%20Manager/Track%20Manager%20Filter/Velocitone%20-%20Tag%20Filter%20(Folder).lua</source>
+      </version>
+    </reapack>
+    <reapack name="Velocitone - Tag Filter (FX).lua" type="script" desc="Velocitone: Tag Filter: [fx]">
+      <metadata>
+        <link rel="website">https://github.com/chrislundeen/</link>
+      </metadata>
+      <version name="1.0.0" author="chrislundeen" time="2026-03-19T17:19:37Z">
+        <changelog><![CDATA[Initial Velocitone release. Toggles track visibility filter for [fx] tagged tracks.]]></changelog>
+        <source main="main">https://github.com/chrislundeen/Velocitone-ReaScripts/raw/257bf7d4d59231e7e6e4377fe5b4797fdff70754/Tracks/Tag%20Manager/Track%20Manager%20Filter/Velocitone%20-%20Tag%20Filter%20(FX).lua</source>
+      </version>
+    </reapack>
+    <reapack name="Velocitone - Tag Filter (Guitar FX).lua" type="script" desc="Velocitone: Tag Filter: [gfx]">
+      <metadata>
+        <link rel="website">https://github.com/chrislundeen/</link>
+      </metadata>
+      <version name="1.0.0" author="chrislundeen" time="2026-03-19T17:19:37Z">
+        <changelog><![CDATA[Initial Velocitone release. Toggles track visibility filter for [gfx] tagged tracks.]]></changelog>
+        <source main="main">https://github.com/chrislundeen/Velocitone-ReaScripts/raw/257bf7d4d59231e7e6e4377fe5b4797fdff70754/Tracks/Tag%20Manager/Track%20Manager%20Filter/Velocitone%20-%20Tag%20Filter%20(Guitar%20FX).lua</source>
+      </version>
+    </reapack>
+    <reapack name="Velocitone - Tag Filter (MIDI).lua" type="script" desc="Velocitone: Tag Filter: [midi]">
+      <metadata>
+        <link rel="website">https://github.com/chrislundeen/</link>
+      </metadata>
+      <version name="1.0.0" author="chrislundeen" time="2026-03-19T17:19:37Z">
+        <changelog><![CDATA[Initial Velocitone release. Toggles track visibility filter for [midi] tagged tracks.]]></changelog>
+        <source main="main">https://github.com/chrislundeen/Velocitone-ReaScripts/raw/257bf7d4d59231e7e6e4377fe5b4797fdff70754/Tracks/Tag%20Manager/Track%20Manager%20Filter/Velocitone%20-%20Tag%20Filter%20(MIDI).lua</source>
+      </version>
+    </reapack>
+    <reapack name="Velocitone - Tag Filter (Output).lua" type="script" desc="Velocitone: Tag Filter: [output]">
+      <metadata>
+        <link rel="website">https://github.com/chrislundeen/</link>
+      </metadata>
+      <version name="1.0.0" author="chrislundeen" time="2026-03-19T17:19:37Z">
+        <changelog><![CDATA[Initial Velocitone release. Toggles track visibility filter for [output] tagged tracks.]]></changelog>
+        <source main="main">https://github.com/chrislundeen/Velocitone-ReaScripts/raw/257bf7d4d59231e7e6e4377fe5b4797fdff70754/Tracks/Tag%20Manager/Track%20Manager%20Filter/Velocitone%20-%20Tag%20Filter%20(Output).lua</source>
+      </version>
+    </reapack>
+    <reapack name="Velocitone - Tag Filter (Rendered Stem).lua" type="script" desc="Velocitone: Tag Filter: [stem]">
+      <metadata>
+        <link rel="website">https://github.com/chrislundeen/</link>
+      </metadata>
+      <version name="1.0.0" author="chrislundeen" time="2026-03-19T17:19:37Z">
+        <changelog><![CDATA[Initial Velocitone release. Toggles track visibility filter for [stem] tagged tracks.]]></changelog>
+        <source main="main">https://github.com/chrislundeen/Velocitone-ReaScripts/raw/257bf7d4d59231e7e6e4377fe5b4797fdff70754/Tracks/Tag%20Manager/Track%20Manager%20Filter/Velocitone%20-%20Tag%20Filter%20(Rendered%20Stem).lua</source>
+      </version>
+    </reapack>
+    <reapack name="Velocitone - Tag Filter (Section).lua" type="script" desc="Velocitone: Tag Filter: [section]">
+      <metadata>
+        <link rel="website">https://github.com/chrislundeen/</link>
+      </metadata>
+      <version name="1.0.0" author="chrislundeen" time="2026-03-19T17:19:37Z">
+        <changelog><![CDATA[Initial Velocitone release. Toggles track visibility filter for [section] tagged tracks.]]></changelog>
+        <source main="main">https://github.com/chrislundeen/Velocitone-ReaScripts/raw/257bf7d4d59231e7e6e4377fe5b4797fdff70754/Tracks/Tag%20Manager/Track%20Manager%20Filter/Velocitone%20-%20Tag%20Filter%20(Section).lua</source>
+      </version>
+    </reapack>
+    <reapack name="Velocitone - Tag Filter (Tape).lua" type="script" desc="Velocitone: Tag Filter: [tape]">
+      <metadata>
+        <link rel="website">https://github.com/chrislundeen/</link>
+      </metadata>
+      <version name="1.0.0" author="chrislundeen" time="2026-03-19T17:19:37Z">
+        <changelog><![CDATA[Initial Velocitone release. Toggles track visibility filter for [tape] tagged tracks.]]></changelog>
+        <source main="main">https://github.com/chrislundeen/Velocitone-ReaScripts/raw/257bf7d4d59231e7e6e4377fe5b4797fdff70754/Tracks/Tag%20Manager/Track%20Manager%20Filter/Velocitone%20-%20Tag%20Filter%20(Tape).lua</source>
+      </version>
+    </reapack>
+    <reapack name="Velocitone - Tag Filter (VSTi).lua" type="script" desc="Velocitone: Tag Filter: [vsti]">
+      <metadata>
+        <link rel="website">https://github.com/chrislundeen/</link>
+      </metadata>
+      <version name="1.0.0" author="chrislundeen" time="2026-03-19T17:19:37Z">
+        <changelog><![CDATA[Initial Velocitone release. Toggles track visibility filter for [vsti] tagged tracks.]]></changelog>
+        <source main="main">https://github.com/chrislundeen/Velocitone-ReaScripts/raw/257bf7d4d59231e7e6e4377fe5b4797fdff70754/Tracks/Tag%20Manager/Track%20Manager%20Filter/Velocitone%20-%20Tag%20Filter%20(VSTi).lua</source>
+      </version>
+    </reapack>
+  </category>
+  <metadata>
+    <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel0 \b \fs36 Velocitone ReaScripts\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 A collection of ReaScripts for {\field{\*\fldinst{HYPERLINK "https://www.reaper.fm/"}}{\fldrslt{\ul
+REAPER
+}}}
+ that provide track tagging, tag-based filtering, color management, toolbar syncing, and hardware controller integration.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel1 \b \fs32 Installation\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel2 \b \fs28 Prerequisites\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab {\field{\*\fldinst{HYPERLINK "https://www.reaper.fm/"}}{\fldrslt{\ul
+REAPER
+}}}
+ (v6+)\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab {\field{\*\fldinst{HYPERLINK "https://reapack.com/"}}{\fldrslt{\ul
+ReaPack
+}}}
+ \u8212- REAPER's package manager\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab {\field{\*\fldinst{HYPERLINK "https://www.sws-extension.org/"}}{\fldrslt{\ul
+SWS Extension
+}}}
+ \u8212- recommended (required for startup action and some script features)\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab {\field{\*\fldinst{HYPERLINK "https://forum.cockos.com/showthread.php?t=212174"}}{\fldrslt{\ul
+js_ReaScriptAPI
+}}}
+ \u8212- required for Track Manager filtering scripts\sa180\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel2 \b \fs28 Install via ReaPack\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 1.\tx360\tab In REAPER, go to {\b Extensions > ReaPack > Import repositories...}\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 2.\tx360\tab Paste this URL:\par}
+{\pard \ql \f0 \sa180 \li360 \fi0 \f1 https://github.com/chrislundeen/Velocitone-ReaScripts/raw/main/index.xml\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 3.\tx360\tab Go to {\b Extensions > ReaPack > Browse packages}\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 4.\tx360\tab Search for "Velocitone" and install the scripts you want\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 5.\tx360\tab Restart REAPER\sa180\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel2 \b \fs28 Set Up the Startup Script\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 The startup script keeps the toolbar tag sync running in the background. To enable it:\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 {\b Option A \u8212- SWS Startup Action (recommended):}\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 1.\tx360\tab Go to {\b Actions > Show action list}\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 2.\tx360\tab Search for {\f1 Velocitone: Startup ReaScript}\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 3.\tx360\tab Right-click the action \u8594 ? {\b Copy selected action command ID}\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 4.\tx360\tab Go to {\b Extensions > Startup actions > Set global startup action}\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 5.\tx360\tab Paste the command ID and confirm\sa180\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 {\b Option B \u8212- Built-in {\f1 __startup.lua}:}\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Create a file called {\f1 __startup.lua} in your REAPER {\f1 Scripts/} folder with this one line:\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \f1 dofile(reaper.GetResourcePath() .. '/Scripts/Velocitone-ReaScripts/Velocitone - startup.lua')\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 REAPER automatically runs any {\f1 __startup.lua} on launch.\par}
+{\pard \qc \f0 \sa180 \li0 \fi0 \emdash\emdash\emdash\emdash\emdash\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel1 \b \fs32 Scripts\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel2 \b \fs28 Track Tag Manager\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 A system for organizing tracks by tagging their names with labels like {\f1 [audio]}, {\f1 [buss]}, {\f1 [midi]}, {\f1 [fx]}, etc.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 {\b Tag Track Name} scripts toggle a tag at the end of the selected track's name. Run the action once to add the tag, run it again to remove it.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Available tags: {\f1 [audio]}, {\f1 [buss]}, {\f1 [channelstrip]}, {\f1 [custom]}, {\f1 [folder]}, {\f1 [fx]}, {\f1 [gfx]} (guitar FX), {\f1 [midi]}, {\f1 [output]}, {\f1 [section]}, {\f1 [stem]}, {\f1 [tape]}, {\f1 [vsti]}\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Example: A track named {\f1 Drums} becomes {\f1 Drums [audio]}\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel2 \b \fs28 Tag-Based Track Filtering\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 {\b Tag Filter} scripts control track visibility based on tags. Activate a filter to show only tracks with that tag \u8212- useful for managing large sessions.\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab Each Tag Filter action acts as a toggle (on/off) and reports its state to REAPER's toolbar button system\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab {\b Reset Tag Filter} clears all active filters, making all tracks visible again\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab Filters work through REAPER's Track Manager window (requires js_ReaScriptAPI)\sa180\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel2 \b \fs28 Track Color Tools\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab {\b Color Gradient for Child Tracks} \u8212- Applies a smooth color gradient across a parent track's children, interpolating brightness and saturation based on nesting depth\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab {\b Color Media Items Variation of Parent Track Color} \u8212- Colors selected media items with randomized shade variations of their top-level parent track's color\sa180\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel2 \b \fs28 Track Name Tools\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab {\b Track Name Character Replacement} \u8212- Prompts for a search string and replacement, then performs find-and-replace on all selected track names\sa180\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel2 \b \fs28 MCP Track Selection\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Navigate the Mixer Control Panel (MCP) with dedicated actions:\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab {\b Select Visible MCP Track - Next} \u8212- Selects the next visible track in the mixer\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab {\b Select Visible MCP Track - Previous} \u8212- Selects the previous visible track in the mixer\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab {\b Select Visible MCP Track - Controller} \u8212- Reads encoder direction from hardware input (-1 = previous, +1 = next) for use with MIDI controllers\sa180\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel2 \b \fs28 Toolbar Sync\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 The startup script runs a background loop that keeps REAPER toolbar buttons in sync with the current tag filter and track tag states. This means toolbar buttons reflect whether a tag filter is active or which tags are applied \u8212- providing visual feedback through button states (off/hover/on).\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel2 \b \fs28 Hardware Control \u8212- MIDIFighter Twister\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Four scripts for switching banks on the {\field{\*\fldinst{HYPERLINK "https://www.midifighter.com/"}}{\fldrslt{\ul
+DJ TechTools MIDIFighter Twister
+}}}
+ controller:\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab {\b Select Bank 1\u8211-4} \u8212- Switches the Twister to the specified bank\sa180\par}
+{\pard \qc \f0 \sa180 \li0 \fi0 \emdash\emdash\emdash\emdash\emdash\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel1 \b \fs32 Library Files\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Scripts under {\f1 _library/} are internal modules loaded by the user-facing scripts above. They do {\b not} appear in REAPER's Actions list and are not meant to be run directly.\par}
+{\pard \qc \f0 \sa180 \li0 \fi0 \emdash\emdash\emdash\emdash\emdash\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel1 \b \fs32 Toolbar Icons\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 These scripts are designed to work with the {\field{\*\fldinst{HYPERLINK "https://github.com/chrislundeen/velocitone-reaper-toolbar-Icons"}}{\fldrslt{\ul
+Velocitone REAPER Toolbar Icons
+}}}
+ repository, which provides matching multi-state toolbar icons and track icons.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 The icon repo generates icons that correspond to the tag system (audio, buss, midi, fx, guitar, etc.) with three visual states \u8212- off, hover, and on \u8212- that align with the toolbar sync behavior of these scripts.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Icons are installed to:\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab {\f1 REAPER/Data/toolbar_icons/} \u8212- toolbar button icons (with 150% and 200% HiDPI variants)\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab {\f1 REAPER/Data/track_icons/Custom/} \u8212- track icons for REAPER's track icon feature\sa180\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 See the toolbar icons repository for setup instructions.\par}
+{\pard \qc \f0 \sa180 \li0 \fi0 \emdash\emdash\emdash\emdash\emdash\par}
+}
+]]></description>
+  </metadata>
+</index>
